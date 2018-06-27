@@ -25,7 +25,7 @@ SECRET_KEY = '==s-br7pya3u0@j7yzn!m7s_7ey2m)u3=)&ap^$88u6@$0z0&('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [http://starlo.pythonanywhere.com/]
 
 
 # Application definition
